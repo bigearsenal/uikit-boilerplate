@@ -7,6 +7,7 @@
 
 import UIKit
 @_exported import BEPureLayout
+@_exported import SwiftyUserDefaults
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
